@@ -5,5 +5,5 @@
 </div>
 
 <div>
-  <img src="https://repository-images.githubusercontent.com/201103019/f8f8f200-bf89-11e9-98f1-98e46486f1b6" length="50"/>
+  <img src="https://repository-images.githubusercontent.com/201103019/f8f8f200-bf89-11e9-98f1-98e46486f1b6" width="300"/>
 </div>
